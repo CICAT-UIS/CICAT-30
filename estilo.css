@@ -21,3 +21,36 @@ ol li {
   font-size: 16px !important;
   line-height: 1.5 !important;
 }
+
+.usercard {
+  margin-bottom: 20px;
+  width: 100%;
+  display: table;
+  background-color: #efdad8;
+}
+
+.usercard.usercard_right {
+  background-color: #f5f3f4;
+}
+.usercard.usercard_right .usercard-content h4 {
+  text-align: right !important;
+}
+.usercard.usercard_right .usercard-content p {
+  text-align: right !important;
+}
+
+.usercard-image,
+.usercard-content {
+  display: table-cell;
+  height: 180px;
+}
+
+.usercard-image {
+  width: 220px;
+  background-size: cover;
+  background-position: center center;
+}
+
+.usercard-content {
+  padding: 20px;
+}
