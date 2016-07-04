@@ -23,10 +23,14 @@ ol li {
 }
 
 .usercard {
+  margin-top: 20px;
   margin-bottom: 20px;
   width: 100%;
   display: table;
   background-color: #efdad8;
+}
+.usercard + .usercard {
+  margin-top: 0;
 }
 
 .usercard.usercard_right {
@@ -49,6 +53,15 @@ ol li {
   width: 220px;
   background-size: cover;
   background-position: center center;
+}
+
+.usercard-content {
+  padding: 20px;
+}
+
+.usercard-content h4 {
+  font-size: 20px !important;
+  font-weight: bold !important;
 }
 
 .usercard-content {
