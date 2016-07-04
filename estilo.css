@@ -1,0 +1,15 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,700);
+
+body {
+  font-family: Raleway !important;
+}
+
+h1 {
+  font-size: 36px !important;
+}
+
+p {
+  font-size: 16px !important;
+  line-height: 1.5 !important;
+  text-align: justify !important;
+}
