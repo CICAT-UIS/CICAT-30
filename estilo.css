@@ -94,9 +94,9 @@ ol li {
 
 .ContenedorVideos{
   text-align:center;
-  border: 5px rgb(89,89,89) double;
+  border: 5px rgba(103, 2, 2) double;
 
-  padding: 1px;
+  padding: 2px;
   
   background: rgb(255,255,255);
   
