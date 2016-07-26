@@ -85,6 +85,8 @@ ol li {
 }
 
 .videos{
+  marginwidth: 10px; 
+  marginheight: 10px;
   margin-left: auto;
   margin-right: auto;
   height: 350px;
