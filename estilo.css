@@ -100,7 +100,7 @@ ol li {
   
   background: rgb(255,255,255);
   
-  -moz-box-shadow:  20px 3px 63px 6px rgb(128,128,128);
-  -webkit-box-shadow:  20px 3px 63px 6px rgb(128,128,128);
-  box-shadow:  20px 3px 63px 6px rgb(128,128,128);
+  -moz-box-shadow:  5px 3px 63px 6px rgb(128,128,128);
+  -webkit-box-shadow:  5x 3px 63px 6px rgb(128,128,128);
+  box-shadow:  5px 3px 63px 6px rgb(128,128,128);
 }
