@@ -84,7 +84,7 @@ ol li {
   box-shadow:  5px 5px 30px 0px rgb(128,128,128);
 }
 
-.Videos{
+.videos{
   border: 10px;
   margin-left: auto;
   margin-right: auto;
@@ -93,9 +93,10 @@ ol li {
 }
 
 .ContenedorVideos{
-  border: 7px rgb(89,89,89) double;
+  text-align:center;
+  border: 5px rgb(89,89,89) double;
 
-  padding: 5px;
+  padding: 1px;
   
   background: rgb(255,255,255);
   
