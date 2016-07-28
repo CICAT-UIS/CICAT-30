@@ -105,11 +105,11 @@ ol li {
   height: 100%;
 }
 .contenedorAlineado[class] {
-  position: relative;
+  /*position: fixed;*/
   display: table;
 }
 .centrado {
-  position: absolute; 
+  /*position: absolute; */
   top: 50%;
 }
  
