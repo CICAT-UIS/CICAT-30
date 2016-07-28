@@ -97,9 +97,16 @@ ol li {
   -webkit-box-shadow: 1px 1px 6px 0px rgb(128,128,128);
   box-shadow:  1px 1px 6px 0px rgb(128,128,128);
 }
-.alineado{
-  vertical-align: middle;
-}
+.alineado {
+    position: absolute; 
+    top: 50%;}
+ 
+.alineado[class] {
+    display: table-cell; 
+    vertical-align: middle;
+    text-align: center; 
+    position: static;
+    }
 
 .contenedor{
   width: 744px !important;
