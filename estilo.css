@@ -79,7 +79,7 @@ ol li {
   background-color:#E74C3C !important;
 }
 
-.menu{
+.fila{
   background-color:#FFFFFF !important;
   border: 3px rgba(231, 76, 60, 0.7) outset !important;
   padding: 6px !important;
@@ -88,10 +88,6 @@ ol li {
   box-shadow:  1px 1px 6px 0px rgb(128,128,128);
 }
 
-.contenido{
-  background-color:#FFFFFF !important;
-  border: 3px rgba(231, 76, 60, 0.7) solid !important;
-}
 .contenedor{
   width: 744px !important;
   border: 3px rgba(231, 76, 60, 0.7) outset !important;
