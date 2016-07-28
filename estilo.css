@@ -108,7 +108,7 @@ ol li {
   display: table;
 }
 .centrado {
-  position: absolute; 
+  position: fixed; 
   top: 50%;
 }
  
