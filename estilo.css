@@ -93,6 +93,12 @@ ol li {
   background-color:#FFFFFF !important;
   border: 3px rgba(231, 76, 60, 0.7) outset !important;
   padding: 6px !important;
+  text-align: center;
+  position: relative;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
   -moz-box-shadow:  1px 1px 6px 0px rgb(128,128,128);
   -webkit-box-shadow: 1px 1px 6px 0px rgb(128,128,128);
   box-shadow:  1px 1px 6px 0px rgb(128,128,128);
