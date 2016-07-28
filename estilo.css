@@ -97,7 +97,7 @@ ol li {
   -webkit-box-shadow: 1px 1px 6px 0px rgb(128,128,128);
   box-shadow:  1px 1px 6px 0px rgb(128,128,128);
 }
-.contenedor {
+.contenedorAlineado {
     top: 0; 
     left: 0; 
     width: 100%; 
